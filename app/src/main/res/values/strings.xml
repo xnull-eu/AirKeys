@@ -1,14 +1,20 @@
 <resources>
-    <string name="app_name">XNull Remote Keys</string>
+    <string name="app_name">AirKeys</string>
     <string name="status_disconnected">Not connected to any device</string>
     <string name="status_connected">Connected</string>
+    <string name="status_connecting">Connecting…</string>
+    <string name="status_reconnecting">Reconnecting…</string>
+    <string name="status_connected_to">Connected to %1$s</string>
     <string name="scan_for_devices">Scan for Devices</string>
     <string name="scanning_devices">Scanning for devices…</string>
+    <string name="stop_scanning">Stop Scanning</string>
+    <string name="disconnect">Disconnect</string>
     <string name="connection_error">Connection error: %1$s</string>
+    <string name="connection_lost_retrying">Connection lost, reconnecting…</string>
     <string name="resolving_service">Resolving service…</string>
     <string name="resolve_error">Failed to resolve service (error: %1$d)</string>
     <string name="invalid_host">Invalid host address</string>
+    <string name="not_connected">Not connected to any device</string>
     <string name="numpad">Numpad</string>
     <string name="function_keys">Function Keys</string>
-    <string name="stop_scanning">Stop Scanning</string>
 </resources>
